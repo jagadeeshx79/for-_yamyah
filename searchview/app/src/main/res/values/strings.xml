@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">searchview</string>
+    <string name="title_activity_show">show</string>
+    <string name="des">your business image</string>
+    <string name="buy">buy</string>
+    <integer name="r">0</integer>
+    <string name="title_activity_navi">Map</string>
+</resources>

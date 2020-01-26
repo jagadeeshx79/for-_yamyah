@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "692790674626",
+    "firebase_url": "https://meeravali-7353e.firebaseio.com",
+    "project_id": "meeravali-7353e",
+    "storage_bucket": "meeravali-7353e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692790674626:android:8347948e1631f45dd8a75b",
+        "android_client_info": {
+          "package_name": "com.me.proxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692790674626-d3prqcad6pte6g0bftjrjo0sq9afti6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-1uPRp9OHX1PV1tcMLV3Z53E4QCTa4w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692790674626-d3prqcad6pte6g0bftjrjo0sq9afti6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692790674626:android:8d53244c46b959c7d8a75b",
+        "android_client_info": {
+          "package_name": "com.me.searchview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692790674626-tb0maf17iqempchp2b4dl0r0ork97jg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.me.searchview",
+            "certificate_hash": "b14db35542cbdd2a7b66750940dbac239b240803"
+          }
+        },
+        {
+          "client_id": "692790674626-d3prqcad6pte6g0bftjrjo0sq9afti6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-1uPRp9OHX1PV1tcMLV3Z53E4QCTa4w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692790674626-d3prqcad6pte6g0bftjrjo0sq9afti6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
